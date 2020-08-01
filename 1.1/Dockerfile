@@ -1,4 +1,4 @@
-FROM nowox/latex:1.1
+FROM nowox/latex:1.0
 LABEL maintainer="Yves Chevallier <yves.chevallier@heig-vd.ch>"
 
 RUN apt-get update

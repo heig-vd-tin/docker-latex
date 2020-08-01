@@ -1,4 +1,4 @@
-FROM ubuntu:18:04
+FROM ubuntu:bionic
 LABEL maintainer="Yves Chevallier <yves.chevallier@heig-vd.ch>"
 
 ARG DEBIAN_FRONTEND=noninteractive
